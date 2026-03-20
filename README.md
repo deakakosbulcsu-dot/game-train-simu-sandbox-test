@@ -13,6 +13,6 @@ https://www.blender.org/
 https://godotengine.org/asset-library/asset/2330
 
 rule tool
-  1.program language gdscript or lua ,not other
-  2.ms paint or Pinta , no  other
-  3.blender , no  other
+1.program language gdscript or lua ,not other
+2.ms paint or Pinta , no  other
+3.blender , no  other
